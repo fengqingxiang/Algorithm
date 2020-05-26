@@ -1,8 +1,8 @@
-package bubblesort;
+package bubblesort_冒泡排序;
 
 import utils.SortUtil;
 
-public class BubbleSort_冒泡排序 {
+public class BubbleSort {
 
     /**
      * 冒泡排序，每次与下一个值比较，如果下一个值比当前值小就交换两者位置
